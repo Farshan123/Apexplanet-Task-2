@@ -1,0 +1,7 @@
+gender,age_group,transaction_count,segment_revenue,avg_ticket_size,segment_share_pct
+Male,Middle-Aged (31-50),208,31057953.6,149317.08,22.28
+Female,Middle-Aged (31-50),217,29267627.97,134873.86,21.0
+Female,Senior (51-65),153,20961460.78,137003.01,15.04
+Male,Senior (51-65),154,20957721.55,136089.1,15.03
+Male,Young Adult (18-30),149,20447875.48,137234.06,14.67
+Female,Young Adult (18-30),119,16706800.27,140393.28,11.98

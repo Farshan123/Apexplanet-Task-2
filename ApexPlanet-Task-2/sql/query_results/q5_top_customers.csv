@@ -1,0 +1,11 @@
+customer_id,customer_name,gender,city,total_purchases,total_units_bought,cumulative_spend,avg_spend_per_order
+CUST2062,Customer_254,Male,Patna,1,10,493677.5,493677.5
+CUST4706,Customer_200,Male,Bengaluru,1,10,492174.1,492174.1
+CUST1711,Customer_36,Female,Bengaluru,1,10,490866.4,490866.4
+CUST4869,Customer_392,Male,Kolkata,1,10,485667.8,485667.8
+CUST7416,Customer_191,Female,Hyderabad,1,10,482551.9,482551.9
+CUST9551,Customer_230,Male,Bengaluru,1,10,474935.9,474935.9
+CUST8381,Customer_112,Male,Kolkata,1,10,473144.2,473144.2
+CUST4037,Customer_205,Male,Kolkata,1,10,470798.6,470798.6
+CUST4003,Customer_305,Female,Bengaluru,1,10,468522.0,468522.0
+CUST4584,Customer_138,Female,Pune,1,10,462701.3,462701.3

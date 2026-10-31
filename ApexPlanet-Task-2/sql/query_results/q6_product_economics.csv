@@ -1,0 +1,7 @@
+product,category,transaction_count,units_sold,avg_unit_price,total_revenue,avg_revenue_per_order
+Laptop,Electronics,170,970,25638.27,25443008.51,149664.76
+Mobile,Electronics,184,1008,24728.48,25335573.19,137693.33
+Book,Education,178,977,24746.71,25031689.4,140627.47
+Rice,Grocery,153,826,26360.24,22231711.28,145305.3
+Chair,Furniture,159,855,25788.9,21521561.48,135355.73
+Shoes,Fashion,156,799,25895.97,19835895.79,127153.18

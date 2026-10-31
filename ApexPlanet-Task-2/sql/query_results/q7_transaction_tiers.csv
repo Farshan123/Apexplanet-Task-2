@@ -1,0 +1,4 @@
+transaction_tier,order_count,order_count_pct,tier_revenue,revenue_pct,avg_tier_ticket
+Mid-Value (100k - 250k),368,36.8,60065354.96,43.09,163221.07
+High-Value (>= 250k),170,17.0,58018676.16,41.62,341286.33
+Standard (< 100k),462,46.2,21315408.53,15.29,46137.25
